@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GoPlay.cs">
+    <Files>
+      <File FileName="Assets\Script\MOvement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GunSloting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Firing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Points.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SpawnPoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Scoring.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GoPlay.cs" Line="16" Column="24" />
+      <File FileName="Assets\Script\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Additional.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
